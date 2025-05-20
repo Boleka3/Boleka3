@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Belal Youness</h1>
 <h3 align="center">I'm a CS student with a strong interest in networking, Security, and building tools that are both useful and efficient.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boleka3" alt="boleka3" /></a> </p>
-
 - 🔭 I’m currently working on **Face Mask Detection System**
 
 - 🌱 I’m currently learning **- Network security and packet analysis - System administration (Linux, Bash scripting) - Basic penetration testing and ethical hacking**
